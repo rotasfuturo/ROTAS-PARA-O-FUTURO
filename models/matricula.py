@@ -1,5 +1,5 @@
 class Matricula:
-    def __init__(id_atividade, id_aluno, id_turma, 
+    def __init__(self, id_atividade, id_aluno, id_turma, 
     frequencia, data, status):
         self.id_atividade : int = id_atividade
         self.id_aluno : int = id_aluno
